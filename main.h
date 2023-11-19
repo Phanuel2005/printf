@@ -23,6 +23,7 @@
  *
  * @fmt: The format.
  * @fn: The function associated.
+ * In collaboration with Dev Phanuel
  */
 struct fmt
 {
